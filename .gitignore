@@ -43,3 +43,6 @@ target/
 
 #x-code
 *.xcodeproj
+
+# code
+node_modules
